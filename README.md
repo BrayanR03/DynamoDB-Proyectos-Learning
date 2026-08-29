@@ -139,7 +139,7 @@ La estructura **no será estrictamente idéntica para todos los proyectos**. Cad
 
 | #  | Proyecto                 | Conceptos principales                    | Estado           |
 | -- | ------------------------ | ---------------------------------------- | ---------------- |
-| 01 | Proyecto DynamoDB Streams 1 | DynamoDB - AWS Lambda - Amazon SNS          | 🟡 En desarrollo |
+| 01 | Proyecto DynamoDB Streams 1 | DynamoDB - AWS Lambda - Amazon SNS          | 🟢 Desarrollado |
 | 02 | Próximamente             | Próximamente | ⬜ Próximamente   |
 
 > La lista anterior representa la evolución prevista del repositorio y podrá modificarse conforme avance el aprendizaje.
